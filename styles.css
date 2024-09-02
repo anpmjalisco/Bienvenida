@@ -354,6 +354,7 @@ nav {
   .let {
     width: 70%; /* ancho del contenido */
     padding: 40px; /* padding superior e inferior, y lateral */
+    margin-top: 0px;
   }
   iframe {
     width: 70%; /* ancho del iframe */
